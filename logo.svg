@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Righi Solutions">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E6A74"/>
+      <stop offset="1" stop-color="#083D44"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="url(#g)"/>
+  <!-- monogramma R geometrico -->
+  <path d="M150 128 h132 a84 84 0 0 1 20 165 l70 91 h-78 l-64 -84 h-32 v84 h-56 V128 z
+           M162 184 v66 h108 a33 33 0 0 0 0 -66 z" fill="#F4F8F8"/>
+  <!-- nodi circuito (accenno elettrotecnico, tono corporate) -->
+  <circle cx="360" cy="150" r="12" fill="#F4F8F8" fill-opacity="0.55"/>
+  <circle cx="360" cy="362" r="12" fill="#F4F8F8" fill-opacity="0.55"/>
+</svg>
